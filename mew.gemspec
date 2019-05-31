@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.summary     = 'mew Media Exchange Wrapper'
   s.description = "mew is a distributed media exchange format. \n" +
                   "This tool pacakges files up and starts distributing them. \n" +
-                  "*Currently this project is experimental!*
+                  "*Currently this project is experimental!*"
   s.authors     = ['Rei Kagetsuki']
   s.email       = 'zero@tsuki.net'
   s.files       = ['mew.gemspec']
